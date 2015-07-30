@@ -19,7 +19,7 @@ public class DoubleIncrement {
         {
             for (k = 7 - i; k >= 1; k--)
                 System.out.print("*");
-            
+
             for (j = 1; j <= i; ++j)
                 System.out.print(j);
 
